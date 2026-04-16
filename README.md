@@ -1,14 +1,13 @@
-## Hi there 👋
+## Hi, I'm Athulya 
 
- Cybersecurity Enthusiast  
+
  SOC Analyst | Threat Hunting | Wazuh | Sysmon | VAPT 
 
 
 ---
 
 ##  About Me  
-I’m a cybersecurity learner focused on **Security Operations (SOC)** and **Threat Detection**.  
-I build hands-on labs to simulate real-world attacks and analyze system logs to identify suspicious activity.
+I’m a cybersecurity learner focused on Security Operations (SOC) and Threat Detection, building hands-on labs to simulate real-world attacks and analyze system logs to identify suspicious activity.
 
 -  Focused on detection and monitoring  
 -  Working with Windows logs and event analysis  
@@ -20,14 +19,22 @@ I build hands-on labs to simulate real-world attacks and analyze system logs to 
 ##  Hands-On Experience  
 
 ###  Brute Force Attack Detection using Wazuh  
-- Simulated attack and detected it using SIEM log
-  analysis 
+- Simulated brute-force login attempts using Hydra  
+- Monitored authentication logs in Wazuh  
+- Identified repeated failed login patterns  
+- Generated alerts for suspicious activity  
+🔗https://github.com/athulyabiju277-sudo/Bruteforce-Wazuh
+
 
 ---
 
 ###  Windows Sysmon Threat Monitoring Lab  
-- Developed a Sysmon-based threat hunting lab to identify suspicious execution and    persistence through log analysis and attack chain correlation.  
-
+- Configured Sysmon for endpoint visibility  
+- Monitored:
+  - Event ID 1 (Process Creation)  
+  - Event ID 3 (Network Connections)  
+- Investigated suspicious processes and connections 
+🔗https://github.com/athulyabiju277-sudo/Windows-Sysmon-Threat-Hunting
 ---
 
 ##  Tools & Technologies  
@@ -48,7 +55,7 @@ Linux(Ubuntu, Kali), Windows
 
 ##  Connect  
 
--  🔗TryHackMe: https://tryhackme.com/p/yourusername  
+-  TryHackMe: https://tryhackme.com/p/yourusername  
 -  LinkedIn: www.linkedin.com/in/athulya-b-bb1bb9231
 ---
 
