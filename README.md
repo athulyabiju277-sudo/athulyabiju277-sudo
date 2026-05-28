@@ -22,7 +22,25 @@ I’m a cybersecurity learner focused on Security Operations (SOC) and Threat De
 - Simulated brute-force login attempts using Hydra  
 - Monitored authentication logs in Wazuh  
 - Identified repeated failed login patterns  
-- Generated alerts for suspicious activity  
+- Generated alerts for suspicious activity
+  ## 🚀 Recent Project Extension
+
+### Wazuh SIEM – Active Response & Automated Mitigation
+
+Extended my SSH brute-force detection lab by implementing automated mitigation using Wazuh Active Response.
+
+#### Key Highlights
+- Simulated SSH brute-force attacks using Hydra
+- Monitored authentication logs with Wazuh SIEM
+- Mapped detections to MITRE ATT&CK (T1110 - Brute Force)
+- Configured Active Response using `firewall-drop`
+- Investigated Wazuh rule mapping and response execution
+- Explored firewall-based mitigation workflows
+- Performed troubleshooting and SIEM tuning during implementation
+
+#### Technologies Used
+`Wazuh` `Linux` `Kali Linux` `Hydra` `SIEM` `MITRE ATT&CK` `SSH` `Log Analysis` `SOC`
+
 🔗https://github.com/athulyabiju277-sudo/Bruteforce-Wazuh
 
 
@@ -33,7 +51,9 @@ I’m a cybersecurity learner focused on Security Operations (SOC) and Threat De
 - Monitored:
   - Event ID 1 (Process Creation)  
   - Event ID 3 (Network Connections)  
-- Investigated suspicious processes and connections 
+- Investigated suspicious processes and connections
+- Attack chain correlation, and SOC-style investigation workflows.
+
 🔗https://github.com/athulyabiju277-sudo/Windows-Sysmon-Threat-Hunting
 ---
 
