@@ -23,7 +23,7 @@ I’m a cybersecurity learner focused on Security Operations (SOC) and Threat De
 - Monitored authentication logs in Wazuh  
 - Identified repeated failed login patterns  
 - Generated alerts for suspicious activity
-  ## 🚀 Recent Project Extension
+  ##  Recent Project Extension
 
 ### Wazuh SIEM – Active Response & Automated Mitigation
 
