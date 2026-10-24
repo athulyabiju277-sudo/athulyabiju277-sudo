@@ -41,7 +41,7 @@ Extended my SSH brute-force detection lab by implementing automated mitigation u
 #### Technologies Used
 `Wazuh` `Linux` `Kali Linux` `Hydra` `SIEM` `MITRE ATT&CK` `SSH` `Log Analysis` `SOC`
 
-🔗https://github.com/athulyabiju277-sudo/Bruteforce-Wazuh
+https://github.com/athulyabiju277-sudo/Bruteforce-Wazuh
 
 
 ---
@@ -54,7 +54,7 @@ Extended my SSH brute-force detection lab by implementing automated mitigation u
 - Investigated suspicious processes and connections
 - Attack chain correlation, and SOC-style investigation workflows.
 
-🔗https://github.com/athulyabiju277-sudo/Windows-Sysmon-Threat-Hunting
+https://github.com/athulyabiju277-sudo/Windows-Sysmon-Threat-Hunting
 
 ---
 
