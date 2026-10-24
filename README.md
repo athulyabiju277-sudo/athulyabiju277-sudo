@@ -1,7 +1,7 @@
 ## Hi, I'm Athulya 
 
 
- SOC Analyst | Threat Hunting | Wazuh | Sysmon | VAPT 
+ SOC Analyst | OSINT | SIEM | VAPT 
 
 
 ---
@@ -73,10 +73,28 @@ OSI Model, TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP, Firewalls, VPN, VLAN, Network Dev
 Linux(Ubuntu, Kali), Windows  
 
 ---
+## Cybersecurity Write-ups & Publications
+
+I document my hands-on cybersecurity learning through TryHackMe walkthroughs and technical write-ups, sharing my approach, the tools I use, and what I learn along the way.
+
+### Published Write-ups
+
+- **[When an Exposed `.git` Directory Tells the Whole Story — Solving TryHackMe's Room 404](https://medium.com/bugbountywriteup/when-an-exposed-git-directory-tells-the-whole-story-solving-tryhackmes-room-404-126fb10ee1a1)**  
+  Exploring exposed Git directories and web security.
+
+- **[Corridor — TryHackMe Walkthrough](https://medium.com/bugbountywriteup/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1)**  
+  Exploring web page clues, source-code inspection, and CTF problem-solving.
+
+### ✍️ More Write-ups Coming Soon
+
+- **W1seGuy — TryHackMe Walkthrough** *(Pending publication)*  
+  Learning about XOR encryption, hexadecimal data, Netcat, and CyberChef.
+
+📖 **[Read more on Medium](https://medium.com/@athulyabiju277)**
 
 ##  Connect  
 
--  TryHackMe: https://tryhackme.com/p/yourusername  
+-  TryHackMe: https://tryhackme.com/p/athulyabiju277 
 -  LinkedIn: www.linkedin.com/in/athulya-b-bb1bb9231
 ---
 
